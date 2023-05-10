@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgrajales815, i'm from Colombia
 - 👀 I’m interested in development and technology
-- 🌱 I’m currently learning flutter, a lot of PHP, MySQL, jquery,  frameworks, and more
+- 🌱 I’m currently learning flutter, angular, springboot, PHP, MySQL, jquery,  frameworks, and more
 - 📫 How to reach me: mgrajales815@gmail.com
 
 <!---
